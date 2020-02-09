@@ -6,7 +6,7 @@
 <title>Joseph B. Sassi</title>
 <style>
 body {
-  img src="miami.jpg"
+  background color: img src="miami.jpg"
   margin: 0 15%;
   font-family: sans-serif;
   }
@@ -15,7 +15,7 @@ h1 {
   font-family: serif;
   font-weight: normal;
   text-transformation: uppercase;
-  border-bottom: 1px solid #57b1dc;
+  border-bottom: 3px solid #57b1dc;
   margin-top: 30px;
 }
 h2 {
