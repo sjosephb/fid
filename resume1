@@ -36,14 +36,17 @@ h2 {
 }
 </style>
 </head>
+
 <body>
 <h1><img src="joesassi1.jpg" alt="joesassi1"><br>Joseph B. Sassi</h1>
+
 <h2>Bio</h2>
 <p>Hello, my name is Joseph Sassi and I am a very "tech savvy" person, who loves video games, sports, and music. I am currently trying to major in Digital Media, and go into the graphic design industry</p>
 
 <h2>Skills</h2>
 Video Editing<br>
 HTML<br> Imaging<br> Photoshop
+
 </body>
 
 </html>
