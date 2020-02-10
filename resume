@@ -5,7 +5,7 @@
 <title>Joseph B. Sassi</title>
 <style>
 body {
-  background color: img src="miami.jpg"
+  <div style="background-image:url(miami.jpg);padding:5px;width:150px;height:200px;border:1px solid black;">
   margin: 0 15%;
   font-family: sans-serif;
   }
@@ -37,7 +37,7 @@ h2 {
 <h1><img src="joesassi1.jpg"><br>Joseph B. Sassi</h1>
 
 <h2>Bio</h2>
-<p>Hello, my name is Joseph Sassi and I am a very "tech savvy" person, who loves video games, sports, and music. I was born in Hollywood, FL, and I am currently trying to major in Digital Media, and go into the graphic design industry</p>
+<p>Hello, my name is Joseph Sassi and I am a very "tech savvy" person, who loves video games, sports, and music. I was born in Hollywood, FL, and I am currently trying to major in Digital Media, and go into the graphic design industry.</p>
 
 <h2>Skills</h2>
 Video Editing<br>
