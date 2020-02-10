@@ -34,7 +34,7 @@ h2 {
 </head>
 
 <body>
-<h1><img src="joesassi1.jpg" width:"210" height:"272" alt="Joseph B. Sassi"><br>Joseph B. Sassi</h1>
+<h1><img src="joesassi1.jpg" alt="Joseph B. Sassi"><br>Joseph B. Sassi</h1>
 
 <h2>Bio</h2>
 <p>Hello, my name is Joseph Sassi and I am a very "tech savvy" person, who loves video games, sports, and music. I was born in Hollywood, FL, and I am currently trying to major in Digital Media, and go into the graphic design industry.</p>
@@ -44,7 +44,7 @@ Video Editing<br>
 HTML<br> Imaging<br> Photoshop
 
 <h2>Portfolio</h2>
-<img src="Joeth.png" width:"141" height:"189" alt="Joe the Hedgehog"<br>
+<img src="Joeth.png" alt="Joe the Hedgehog"<br>
 <p>This is a knockoff version of Sonic the Hedgehog, in which I gave him a football jersey, and a knockoff version of Thanos' Infinity Gauntlet. This is a fan character I created known as "Joe the Hedgehog".</p>
 
 </body>
