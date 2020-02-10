@@ -5,7 +5,7 @@
 <title>Joseph B. Sassi</title>
 <style>
 body {
-  <div style="background-image:url(miami.jpg);padding:5px;width:150px;height:200px;border:1px #000000;">
+  background-image:url(miami.jpg);
   margin: 0 15%;
   font-family: sans-serif;
   }
