@@ -23,7 +23,7 @@ h2 {
 }
 p {
   color: #FFFFFF
-  background color: #000000
+  background-color: #000000
 }
 h2 {
    color: #E07422;
