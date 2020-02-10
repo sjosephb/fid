@@ -29,10 +29,6 @@ h2 {
    color: #E07422;
    font-size; 1em;
 }
-p {
-  color: #FFFFFF
-  background-color: #000000
- }
 </style>
 
 </head>
