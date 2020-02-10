@@ -10,6 +10,7 @@ body {
   font-family: sans-serif;
   }
 h1 {
+  color: #0B6317
   text-align: center;
   font-family: serif;
   font-weight: normal;
@@ -46,7 +47,7 @@ p {
 </head>
 
 <body>
-<h1><img src="joesassi1.jpg" alt="Joseph B. Sassi"><br>Joseph B. Sassi</h1>
+<h1><img src="joesassi1.jpg" alt="Joseph B. Sassi"><br><b>Joseph B. Sassi</b></h1>
 
 <h2>Bio</h2>
 <p>Hello, my name is Joseph Sassi and I am a very "tech savvy" person, who loves video games, sports, and music. I was born in Hollywood, FL, and I am currently trying to major in Digital Media, and go into the graphic design industry.</p>
