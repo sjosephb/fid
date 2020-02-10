@@ -21,6 +21,10 @@ h2 {
    color: #E07422;
    font-size; 1em;
 }
+p {
+  color: #FFFFFF
+  background color: #000000
+}
 h2 {
    color: #E07422;
    font-size; 1em;
@@ -44,7 +48,7 @@ Video Editing<br>
 HTML<br> Imaging<br> Photoshop
 
 <h2>Portfolio</h2>
-img src="Joeth.png"<br>
+<img src="Joeth.png" alt="Joe the Hedgehog"<br>
 <p>This is a knockoff version of Sonic the Hedgehog, in which I gave him a football jersey, and a knockoff version of Thanos' Infinity Gauntlet. This is a fan character I created known as "Joe the Hedgehog".</p>
 
 </body>
