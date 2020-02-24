@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset ="utf-8">
+<title>Black Goose Bistro</title>
+<style>
+body {
+  background-color:#c0c0c0;
+  margin: 0 15%;
+  font-family: sans-serif;
+}
+h2 {
+   color: #d1633c;
+   font-size; 1em;
+}
+</style>
+
+</head>
+
+<body>
+<h2>Contact</h2>
+<p>blackgoosebistroeats@fid.net<br>
+(407) 555-0620
