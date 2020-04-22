@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset ="utf-8">
+<title>Daytona Beach Brochure</title>
+<style>
+body {
+  background-image:url(daytonabeach.jpg);
+  margin: 0 15%;
+  font-family: sans-serif;
+  }
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-color: #000000;
+  text-background: #FFFFFF;
+  font-weight: normal;
+  text-transformation: uppercase;
+  margin-top: 30px;
+}
+h2 {
+   color: #000000;
+   background: #FFFFFF;
+   font-size; 1em;
+}
+
+<body>
+
+<h2>Hours</h2>
+<p>We are open 24 hours</p>
+
+</body>
+
+</html>
